@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JackTownsend93
+- 👀 I’m interested in learning a range of programming skills to support my professional career, personal projects, and hobbies.
+- 🌱 I’m currently learning C, Python, and SQL.
+- 📚 My profile currently hosts my academic works and learning projects/exercises.
